@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio-v2/static/css/main.10bb388c.chunk.css",
-    "main.js": "/portfolio-v2/static/js/main.875bd680.chunk.js",
-    "main.js.map": "/portfolio-v2/static/js/main.875bd680.chunk.js.map",
+    "main.css": "/portfolio-v2/static/css/main.7ee82dd1.chunk.css",
+    "main.js": "/portfolio-v2/static/js/main.56d06469.chunk.js",
+    "main.js.map": "/portfolio-v2/static/js/main.56d06469.chunk.js.map",
     "runtime-main.js": "/portfolio-v2/static/js/runtime-main.2bd7dd42.js",
     "runtime-main.js.map": "/portfolio-v2/static/js/runtime-main.2bd7dd42.js.map",
     "static/js/2.0e604c1f.chunk.js": "/portfolio-v2/static/js/2.0e604c1f.chunk.js",
     "static/js/2.0e604c1f.chunk.js.map": "/portfolio-v2/static/js/2.0e604c1f.chunk.js.map",
     "index.html": "/portfolio-v2/index.html",
-    "precache-manifest.4cf60d96f48706df8e572617caaa182b.js": "/portfolio-v2/precache-manifest.4cf60d96f48706df8e572617caaa182b.js",
+    "precache-manifest.c1174faeef5280af30cf10b476085a4c.js": "/portfolio-v2/precache-manifest.c1174faeef5280af30cf10b476085a4c.js",
     "service-worker.js": "/portfolio-v2/service-worker.js",
-    "static/css/main.10bb388c.chunk.css.map": "/portfolio-v2/static/css/main.10bb388c.chunk.css.map",
+    "static/css/main.7ee82dd1.chunk.css.map": "/portfolio-v2/static/css/main.7ee82dd1.chunk.css.map",
     "static/media/TimelineItem.scss": "/portfolio-v2/static/media/work-study.eeff63aa.jpg",
     "static/media/CardFront.scss": "/portfolio-v2/static/media/work-site.e4a7b08c.jpg",
+    "static/media/Education.scss": "/portfolio-v2/static/media/school.eeff63aa.jpg",
     "static/media/Home.scss": "/portfolio-v2/static/media/view.84444eea.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2bd7dd42.js",
     "static/js/2.0e604c1f.chunk.js",
-    "static/css/main.10bb388c.chunk.css",
-    "static/js/main.875bd680.chunk.js"
+    "static/css/main.7ee82dd1.chunk.css",
+    "static/js/main.56d06469.chunk.js"
   ]
 }
